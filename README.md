@@ -1,7 +1,6 @@
 <img src="banner.png" alt="Common Modding Policy" />
 
-<img src="https://img.shields.io/badge/game-Minecraft-green" alt="Minecraft" />
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=version&prefix=%20&query=version&url=https://raw.githubusercontent.com/CleverNucleus/common-modding-policy/main/version.json" alt="Version" />
+<img src="https://img.shields.io/badge/game-Minecraft-green" alt="Minecraft" /><img src="https://img.shields.io/badge/dynamic/json?color=blue&label=version&prefix=%20&query=version&url=https://raw.githubusercontent.com/CleverNucleus/common-modding-policy/main/version.json" alt="Version" />
 
 <hr />
 
